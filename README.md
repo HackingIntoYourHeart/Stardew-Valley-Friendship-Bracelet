@@ -5,5 +5,3 @@
 ### Dependencies
 
 * Basically any version of Python
-
-## HackingIntoYourHeart
